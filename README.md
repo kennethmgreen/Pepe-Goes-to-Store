@@ -6,7 +6,7 @@ This game centers on your quest to acquire chips. You’ll explore various locat
 
 1. Download or clone the repository  
 2. Make sure Python is installed  
-3.Run the game with Python 3
+3.Run the game with Python 3 or run the .exe file (no python needed)
 
 4. Important: When the game asks you to make a choice, type the full name of your choice exactly as shown.
 
